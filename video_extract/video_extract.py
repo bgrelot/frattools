@@ -25,7 +25,7 @@ def main(argv):
 	# print(wb.get_sheet_names())
 
 	# selecting the relevant sheet
-	ws = wb['Conducteur']
+	ws = wb['celebration']
 	# getting the number of lines
 	max_row = ws.max_row
 
